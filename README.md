@@ -4,7 +4,7 @@ This is the face recognition system with Support Vector Machine(SVM)
 
 
 ## Project Set up and Installation
-The project is used opencv, numpy and matplotlib library.
+This project is used opencv, numpy and matplotlib library.
 
 
 ## Dataset 
